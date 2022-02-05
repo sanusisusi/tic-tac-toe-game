@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+live preview
+  tic-tac-toe-game-1f345.web.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
